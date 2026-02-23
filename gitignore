@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+french_results.csv
+japanese_results.csv
+statistical_summary.csv
+figure*.jpg
+data/
+venv/
+.env

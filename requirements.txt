@@ -1,0 +1,10 @@
+datasets
+pandas
+transformers
+torch
+sentencepiece
+seaborn
+matplotlib
+scikit-learn
+scipy
+tqdm
