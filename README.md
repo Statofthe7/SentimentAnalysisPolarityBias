@@ -2,7 +2,7 @@
 # Zero-Shot Sentiment Analysis with mDeBERTa-v3
 
 ## Project Overview
-This project demonstrates zero-shot sentiment analysis on movie reviews in French and Japanese using the `MoritzLaurer/mDeBERTa-v3-base-mnli-xnli` model from the Hugging Face Transformers library. The goal is to evaluate the model's performance on sentiment classification across different languages without explicit fine-tuning on sentiment-labeled data for these languages.
+This project demonstrates zero-shot sentiment analysis on movie reviews in French and product reviews in Japanese using the `MoritzLaurer/mDeBERTa-v3-base-mnli-xnli` model from the Hugging Face Transformers library. The goal is to evaluate the model's performance on sentiment classification across different languages without explicit fine-tuning on sentiment-labeled data for these languages.
 
 ## Key Functionalities
 The accompanying Jupyter Notebook performs the following:
@@ -48,7 +48,3 @@ Running the notebook will generate the following files in the same directory:
 - `french_results.csv`: Detailed results of sentiment analysis for French reviews.
 - `japanese_results.csv`: Detailed results of sentiment analysis for Japanese reviews.
 - `statistical_summary.csv`: A table summarizing accuracy and correlation statistics.
-- `figure1_confusion_japanese.jpg`: Confusion matrix plot for Japanese sentiment analysis.
-- `figure2_confusion_french.jpg`: Confusion matrix plot for French sentiment analysis.
-- `figure3_length_accuracy_french.jpg`: Accuracy vs. token length plot for French reviews.
-- `figure4_length_accuracy_japanese.jpg`: Accuracy vs. token length plot for Japanese reviews.
