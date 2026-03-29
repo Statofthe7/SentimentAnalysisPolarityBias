@@ -12,8 +12,8 @@ of mDeBERTa-v3, Claude Opus 4.6, GPT-5.4, and Gemini 3.1 Pro.
 
 1.  **Clone the repository (or open in Colab):**
     ```bash
-    git clone <repository-url>
-    cd multilingual-sentiment-analysis
+    git clone https://github.com/Statofthe7/SentimentAnalysisPolarityBias.git
+    cd SentimentAnalysisPolarityBias
     ```
 
 2.  **Install Python Dependencies:**
