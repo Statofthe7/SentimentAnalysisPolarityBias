@@ -1,0 +1,16 @@
+This file lists all the Python packages required to run the project.
+
+datasets
+pandas
+transformers
+torch
+sentencepiece
+openpyxl
+anthropic
+openai
+google-generativeai
+matplotlib
+seaborn
+scikit-learn
+scipy
+numpy
