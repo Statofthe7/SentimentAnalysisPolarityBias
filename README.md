@@ -62,5 +62,5 @@ The notebook generates several tables and a figure to visualize and summarize th
     Provides specific insights into the nature of errors, such as LLM false negatives on French reviews with negative markers, and mDeBERTa false positives on Japanese reviews with softening language.
 
 ## Resources
-*    **Datasets:** [Amazon Reviews Multi (Keung et al., 2020)](https://huggingface.co/datasets/amazon_reviews_multi)
+*    **Datasets:** [Amazon Reviews Multi (Keung et al., 2020)](https://huggingface.co/datasets/mteb/amazon_reviews_multi)
 *    **mDeBERTa-v3 Model:** [MoritzLaurer/mDeBERTa-v3-base-mnli-xnli](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli)
