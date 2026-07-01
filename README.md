@@ -64,3 +64,18 @@ The notebook generates several tables and a figure to visualize and summarize th
 ## Resources
 *    **Datasets:** [Amazon Reviews Multi (Keung et al., 2020)](https://huggingface.co/datasets/mteb/amazon_reviews_multi)
 *    **mDeBERTa-v3 Model:** [MoritzLaurer/mDeBERTa-v3-base-mnli-xnli](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli)
+
+## Citation
+If you find this repository or our research useful, please consider citing our paper:
+
+**Language-Specific Sentiment Polarity Biases in Encoder and Large Language Model Classification of Product Reviews** Advita Rajiv, Kavitha Kothur, and Gautham Reddy  
+*arXiv preprint arXiv:2606.22745 (2026)* [![arXiv](https://img.shields.io/badge/arXiv-2606.22745-b31b1b.svg)](https://arxiv.org/abs/2606.22745)
+
+```bibtex
+@article{rajiv2026languagespecific,
+  title={Language-Specific Sentiment Polarity Biases in Encoder and Large Language Model Classification of Product Reviews},
+  author={Rajiv, Advita and Kothur, Kavitha and Reddy, Gautham},
+  journal={arXiv preprint arXiv:2606.22745},
+  year={2026},
+  url={[https://arxiv.org/abs/2606.22745](https://arxiv.org/abs/2606.22745)}
+}
